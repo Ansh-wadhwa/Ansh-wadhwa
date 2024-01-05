@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Wadhwa</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right alt = "Data Scientist width="400" src=https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt = "Data Scientist" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
