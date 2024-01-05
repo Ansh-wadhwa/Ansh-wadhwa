@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Wadhwa</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right alt = "Data Scientist width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw0Z6bsAEgrhl91mXswUlqxk&ust=1704554459764000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDkhKzGxoMDFQAAAAAdAAAAABAD">
+<img align="right alt = "Data Scientist width="400" src=https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
